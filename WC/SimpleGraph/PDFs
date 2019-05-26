@@ -1,2 +1,5 @@
 https://www.cs.tufts.edu/comp/150GA/homeworks/hw1/Johnson%2075.PDF
 https://www.youtube.com/watch?v=johyrWospv0
+
+Check out shortest path for weighed directed graph here: you can use the simpler graph API I have
+https://algs4.cs.princeton.edu/44sp/
